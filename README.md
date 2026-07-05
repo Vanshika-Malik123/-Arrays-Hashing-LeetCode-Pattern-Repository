@@ -216,6 +216,7 @@ t a dump of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -238,6 +239,7 @@ t a dump of LeetCode solutions.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -251,6 +253,7 @@ t a dump of LeetCode solutions.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
