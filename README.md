@@ -215,6 +215,7 @@ t a dump of LeetCode solutions.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -253,6 +254,7 @@ t a dump of LeetCode solutions.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
