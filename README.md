@@ -284,4 +284,8 @@ t a dump of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1288-remove-covered-intervals/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 <!---LeetCode Topics End-->
