@@ -276,6 +276,7 @@ t a dump of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,4 +289,9 @@ t a dump of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
