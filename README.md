@@ -225,6 +225,7 @@ t a dump of LeetCode solutions.
 | [1288-remove-covered-intervals](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -250,6 +251,7 @@ t a dump of LeetCode solutions.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
@@ -312,6 +314,7 @@ t a dump of LeetCode solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
