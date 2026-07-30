@@ -216,6 +216,7 @@ t a dump of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0169-majority-element/) | Easy |
@@ -348,10 +349,12 @@ t a dump of LeetCode solutions.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0011-container-with-most-water/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/0011-container-with-most-water/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vanshika-Malik123/-Arrays-Hashing-LeetCode-Pattern-Repository/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
